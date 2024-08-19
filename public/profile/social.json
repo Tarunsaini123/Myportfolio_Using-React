@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/tarun-saini-26a39a236/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Tarunsaini123"
+        },
+        {
+            "network" : "email",
+            "href": "tarunsaini4017@gmail.com"
+        }
+    ]
+}

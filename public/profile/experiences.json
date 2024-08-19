@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        
+        {
+            "title": "React Developer Trainee",
+            "subtitle": "CETPA Infotech Pvt Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "I am adept at developing and maintaining **ReactJS applications**, with an emphasis on the front end, and integrating them with various technologies to ensure efficient and effective performance.",
+                "Used ReactJS technology, developed and maintained user-friendly interfaces for **INTELLECTIFY Online Tech Education and Learning**. These interfaces were optimized for devices, making technology learning easier and more enjoyable for user."
+            ],
+            "dateText": "07/2023 – 08/2023"
+        },
+        {
+            "title": "Core java",
+            "subtitle": "E School Bareilly",
+            "workType": "Trainning",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "Worked as **core java developer** in **E School**. And Learn so many things."
+            ],
+            "dateText": "03/2024 – 04/2024"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Bharat Intern",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the Project that is given as a task from Bharat Intern for both Android and Web App using framework.",
+                "I Learn So many new new Things and developed project as a in real time work environment"
+            ],
+            "dateText": "08/2023 – 09/2024"
+        }
+    ]
+}

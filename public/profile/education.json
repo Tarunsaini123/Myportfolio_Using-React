@@ -1,0 +1,27 @@
+{
+    "education":[
+        {
+            "title": "Nov 2020 - Jun 2024",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Dr. A.P.J. abdul Kalam Technical University, Lucknow",
+            "cardDetailedText": "CGPA - 7.5",
+            "icon" : {
+                "src": "images/education/dot.png"
+            }
+        },
+        {
+            "title": "Apr 2019 - Mar 2020",
+            "cardTitle": "12th",
+            "cardSubtitle":"Saraswati Vidya Mandir Inter College, Rampur",
+            "cardDetailedText": "Marks - 77%"
+            
+        },
+        {
+            "title": "Apr 2017 - Mar 2018",
+            "cardTitle": "10th",
+            "cardSubtitle":"Shri Ram Inter College Panjab Nagar, Rampur",
+            "cardDetailedText": "Marks - 74.4%"
+            
+        }
+    ]
+}

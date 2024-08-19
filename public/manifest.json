@@ -1,0 +1,15 @@
+{
+  "short_name": "Tarun Saini",
+  "name": "Tarun Saini - Portfolio",
+  "icons": [
+    {
+      "src": "images/logo1.jpg",
+      "type": "image/jpg",
+      "sizes": "400x200"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

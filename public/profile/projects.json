@@ -1,0 +1,157 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                }
+
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/education.png",
+            "title": "INTELLECTIFY ONLINE TECH-EDUCATION LEARNING",
+            "bodyText": "- A Tech Education web app made using **React** for **B.Tech**, **BCA** Students.\n - Intuitive Navigation: Simplifies user interaction and course discovery.\n - Enhances user engagement and makes tech education more accessible and enjoyable..",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/INTELLECTIFY-ONLINE-TECH-EDUCATION-LEARNING-ReactJS"
+                }
+            ],
+            "tags" : [
+                "React js",
+                "Redux",
+                "BootStrap",
+                "JavaScript",
+                "CSS3",
+                "HTML5"
+            ]
+        },
+        {
+            "image" : "images/projects/Rock.png",
+            "title": "Stone Paper Scissors",
+            "bodyText": "- **Rock, Paper, Scissors**.\n - The familiar game of Rock, Paper, Scissors is played like this:\n -at the same time, two players display one of **three symbols**: a rock, paper, or scissors.\n - A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/Stone-Paper-Scissors-Game"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Git"
+            ]
+        },
+        {
+            "image" : "images/projects/cms.png",
+            "title": "Customer Management App",
+            "bodyText": "- A Web Application that allows users to fill texts in a boxes.\n - End to End encryption Algorithm and Authentication.\n - **Table**  to store data.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/Customer-Management-App_UsingReact"
+                }
+            ],
+            "tags" : [
+                "React js",
+                "Redux",
+                "CRUD Operation",
+                "JavaScript",
+                "Stste management"
+            ]
+        },
+        {
+            "image" : "images/projects/tictac.jpg",
+            "title": "TicTak Toe Game",
+            "bodyText": "- The Tic Tac Toe game provides a fun, interactive experience using HTML, CSS, and JavaScript. \n - showcasing essential **web development** skills with a **responsive interface**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/Tic-Tak-Toe-Game"
+                }
+            ],
+            "tags" : [
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/car2.png",
+            "title": "Car Rental System",
+            "bodyText": "- A Java Web App that leads Car Rental System simplifies the **rental process** by efficiently managing bookings, **vehicle details**, and **customer information**.\n - It include rental dates, bike numbers, number of people, and **license verification**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/Car-Rental-System-java"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "MySQL",
+                "JDBC",
+                "MySQL",
+                "Git"
+            ]
+        },
+        {
+            "image" : "images/projects/temp.png",
+            "title": "Temperature Converter",
+            "bodyText": "- A simple Temperature Converter web app made with **javaScript**.\n - Uses ** to convert temperature form **Celsius** to **Fahrenheit** and etc..",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/Temperature-Converter"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "CSS3",
+                "HTML5"
+            ]
+        },
+        {
+            "image" : "images/projects/estate.png",
+            "title": "Real Estate Web App",
+            "bodyText": "- A Web App for Real E-State.\n - Uses A real estate web app simplifies **property searches**, providing users with easy access to listings and **real-time** data for informed decisions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/Real-estate-website-react"
+                }
+            ],
+            "tags" : [
+                "React js",
+                "JavaScript",
+                "API"
+            ]
+        },
+        {
+            "image" : "images/projects/quiz.png",
+            "title": "Quiz Engine",
+            "bodyText": "- A Web App for Quiz solve Application using **Java**.\n - The main objective of ONLINE QUIZ is **to efficiently evaluate the candidate thoroughly through a fully automated system that not only saves lot of time but also gives fast results**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Tarunsaini123/quiz_Engine"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "JavaScript",
+                "HTML5"
+            ]
+        }
+    ]
+}
